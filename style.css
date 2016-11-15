@@ -3,3 +3,7 @@
   height: 100px;
   background-color: 'black';
 }
+
+
+initial+','+SHAPE_HEIGHT+' '+initial+SHAPE_WIDTH+','SHAPE_HEIGHT+' '+SHAPE_WIDTH+(SHAPE_WIDTH/2)','yScale
+'450,100  550,100  500,0'
